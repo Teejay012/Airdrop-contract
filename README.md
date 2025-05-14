@@ -30,4 +30,4 @@ forge install
 
 ## Contact me
 
-Chat me ((EtherEngineer)[https://x.com/Tee_Jay4life]) on X
+Chat me (EtherEngineer)[https://x.com/Tee_Jay4life] on X
