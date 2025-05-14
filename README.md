@@ -28,6 +28,9 @@ cd merkle-airdrop
 forge install
 ```
 
-## Contact me
+## 🧑‍💻 Author
 
-Chat me (EtherEngineer)[https://x.com/Tee_Jay4life] on X
+Feel free to reach out or ask questions!
+
+**Chat with me on [X (formerly Twitter) @EtherEngineer](https://x.com/Tee_Jay4life)**  
+I'm always open to discussing smart contracts, Solidity, and everything Web3.
