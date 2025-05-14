@@ -1,0 +1,50 @@
+[
+    {
+        "inputs": [
+            "0x186159375129Bc6ae88dA802977FdA3D2A6f80d3",
+            "25000000000000000000"
+        ],
+        "proof": [
+            "0xd1445c931158119b00449ffcac3c947d028c0c359c34a6646d95962b3b55c6ad",
+            "0x6faf2a16002ed3ddb5d372bffbe0f0f3f7141a9536e983cce95f3b40a4590346"
+        ],
+        "root": "0x3e991e48378c71cd6b59e423a0274cdbad1b8424cae0ef5136632e6d5dc99a4b",
+        "leaf": "0xc73f89e1361377f47a78440b3aded977e1c50414af3a4e425739283f6d126792"
+    },
+    {
+        "inputs": [
+            "0x6CA6d1e2D5347Bfab1d91e883F1915560e09129D",
+            "25000000000000000000"
+        ],
+        "proof": [
+            "0xc73f89e1361377f47a78440b3aded977e1c50414af3a4e425739283f6d126792",
+            "0x6faf2a16002ed3ddb5d372bffbe0f0f3f7141a9536e983cce95f3b40a4590346"
+        ],
+        "root": "0x3e991e48378c71cd6b59e423a0274cdbad1b8424cae0ef5136632e6d5dc99a4b",
+        "leaf": "0xd1445c931158119b00449ffcac3c947d028c0c359c34a6646d95962b3b55c6ad"
+    },
+    {
+        "inputs": [
+            "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+            "25000000000000000000"
+        ],
+        "proof": [
+            "0x0fd7c981d39bece61f7499702bf59b3114a90e66b51ba2c53abdf7b62986c00a",
+            "0x14fc2ffc2e70dba9edf92741799ac35f304f8e1d8ff52f5816ece6eb41607d49"
+        ],
+        "root": "0x3e991e48378c71cd6b59e423a0274cdbad1b8424cae0ef5136632e6d5dc99a4b",
+        "leaf": "0xf884e61898c71567fd4f44aa020453ed544cb775949e2087043630858aa9e609"
+    },
+    {
+        "inputs": [
+            "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+            "25000000000000000000"
+        ],
+        "proof": [
+            "0xf884e61898c71567fd4f44aa020453ed544cb775949e2087043630858aa9e609",
+            "0x14fc2ffc2e70dba9edf92741799ac35f304f8e1d8ff52f5816ece6eb41607d49"
+        ],
+        "root": "0x3e991e48378c71cd6b59e423a0274cdbad1b8424cae0ef5136632e6d5dc99a4b",
+        "leaf": "0x0fd7c981d39bece61f7499702bf59b3114a90e66b51ba2c53abdf7b62986c00a"
+    }
+]
